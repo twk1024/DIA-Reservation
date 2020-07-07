@@ -1,0 +1,14 @@
+name: DIA-Reservation
+main: dokidia\Reservation
+author: dokidia
+api: [3.0.0, 4.0.0]
+version: 1.0.0
+
+commands:
+  사전예약코어:
+    description: 사전예약 명령어 | Made by 도끼다이아
+    permission: dia.command.reward
+
+permissions:
+  dia.command.reward:
+    default: true

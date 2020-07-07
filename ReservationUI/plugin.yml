@@ -1,0 +1,9 @@
+name: DIA-ReservationUI
+main: dokidia\ReservationUI
+api: 3.0.0
+version: 1.0.1
+author: dokidia
+
+commands:
+  사전예약:
+    description: 사전예약 UI를 엽니다
